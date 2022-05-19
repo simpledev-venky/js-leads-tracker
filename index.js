@@ -1,4 +1,4 @@
-
+ console.log("version2")
                    let myleads = [];
 
       //grabing the elements n storing in the var
